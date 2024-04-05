@@ -1,3 +1,25 @@
+.container{margin: auto;}
+
+.navbar{display: flex;}
+
+    .navleft{justify-content: flex-start;}
+
+    .navright{justify-content: flex-end;}
+
+.containerbody{display: flex;}
+
+    .leftbody{justify-content: left;}
+
+    .rightbody{}
+
+.lowrbody{justify-content: center;}
+
+.footer{}
+
+
+
+
+
 body {
     min-width: 290px;
     color: #4d4e53;
