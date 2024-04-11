@@ -53,6 +53,8 @@ ul {max-width: 550px;
   line-height: 1.6;}
   
 li {margin: 18px 0;}
+
+strong{font-size:larger;}
   
 blockquote {font-style: italic;
   max-width: 545px;
