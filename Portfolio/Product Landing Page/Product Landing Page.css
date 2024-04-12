@@ -1,0 +1,38 @@
+.container{margin: auto;}
+
+.navibar{display: flex;
+    flex-direction: row;
+    margin: auto;
+    max-height: 35px;
+    background-color: blue;
+    padding: 15px;}
+
+    .navileft{
+        margin: auto;
+        justify-content: left;}
+
+    .naviright{justify-content: flex-end;
+        margin:auto;}
+
+.contbody{display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;}
+
+    .lftbody{width: 30%;
+        justify-content: left;
+        color: rgb(71, 6, 9);
+        padding: 0;
+        border: solid black;}
+
+    .rghtbody{width: 70%;
+        margin: auto;
+        background-color: blueviolet;
+        padding: auto;}
+
+.box{border: solid black;
+ text-align: center;
+ padding: 15px;}
+
+.footer{margin: 15px;
+    text-align: center;}
+
